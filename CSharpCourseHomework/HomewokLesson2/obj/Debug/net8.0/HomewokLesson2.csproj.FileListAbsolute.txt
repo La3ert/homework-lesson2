@@ -1,0 +1,14 @@
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\bin\Debug\net8.0\HomewokLesson2.exe
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\bin\Debug\net8.0\HomewokLesson2.deps.json
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\bin\Debug\net8.0\HomewokLesson2.runtimeconfig.json
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\bin\Debug\net8.0\HomewokLesson2.dll
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\bin\Debug\net8.0\HomewokLesson2.pdb
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\obj\Debug\net8.0\HomewokLesson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\obj\Debug\net8.0\HomewokLesson2.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\obj\Debug\net8.0\HomewokLesson2.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\obj\Debug\net8.0\HomewokLesson2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\obj\Debug\net8.0\HomewokLesson2.dll
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\obj\Debug\net8.0\refint\HomewokLesson2.dll
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\obj\Debug\net8.0\HomewokLesson2.pdb
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\obj\Debug\net8.0\HomewokLesson2.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\CSharpCourseHomework\HomewokLesson2\obj\Debug\net8.0\ref\HomewokLesson2.dll
